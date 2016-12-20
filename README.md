@@ -1,4 +1,4 @@
-# Long-term_time_series_School_Basic_Survey
+# long-term_time_series_school_basic_survey
 　【和歌山県　長期時系列　学校基本調査です。】
 ◆とは
 学校基本調査は、文部科学省所管により昭和23年以来毎年全国一斉に実施しているものです。 
